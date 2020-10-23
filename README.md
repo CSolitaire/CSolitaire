@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://github.com/CSolitaire/CSolitaire/blob/main/Corey%20Solitaire(1).pdf)
+
+![](file:///Users/coreysolitaire/Downloads/Corey%20Solitaire-1.pdf)
 
 **About Me**
 - 🔭 I’m currently a student at Codeup devloping skills in python, SQL, data analytics, applied statistics, and machine learning
