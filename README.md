@@ -3,7 +3,7 @@
 <img width="449" alt="Screen Shot 2020-10-23 at 1 29 10 PM" src="https://user-images.githubusercontent.com/63081449/97040699-ebe37580-1533-11eb-8b26-7eba63f553d5.png">
 
 **About Me**
-- 🔭 I’m currently a student at Codeup devloping skills in python, SQL, data analytics, applied statistics, and machine learning
+- 💻 I’m currently a student at **Codeup** devloping skills in python, SQL, data analytics, applied statistics, and machine learning
 - 📫 How to reach me: corey.solitaire@gmail.com
 - 😄 Pronouns: he/him
 
