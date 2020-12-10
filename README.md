@@ -6,7 +6,7 @@
 - 💻 I’m a data scientist interested in python, SQL, data analytics, applied statistics, and machine learning
 - 📫 How to reach me: corey.solitaire@gmail.com
 - 😄 Pronouns: he/him
-- 📄  [Resume](https://github.com/CSolitaire/CSolitaire.github.io/blob/master/Corey%20Solitaire%20Resume.pdf)
+- 📄  [Resume](https://github.com/CSolitaire/CSolitaire.github.io/blob/master/Corey%20Solitaire%20Resume%20.pdf)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Csolitaire&show_icons=true)  
 
